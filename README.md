@@ -45,9 +45,9 @@ make
 ```
 
 ### Help me grow my passion:
-<p align="center">
+<p align="left">
   <a href="https://buymeacoffee.com/brtekld_prog" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Pomóż%20mi%20rozwijać%20pasje-yellow?style=for-the-badge" alt="Buy Me A Coffee">
+    <img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20cofee-yellow?style=for-the-badge" alt="Buy Me A Coffee">
   </a>
 </p>
 
