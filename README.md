@@ -20,3 +20,19 @@
 ---
 
 ### Built and tested on Ubuntu 24.04.2 LTS
+
+To compile and run the project, follow these steps in your terminal:
+
+```bash
+# 1. Create a build directory
+mkdir build
+cd build
+
+# 2. Generate Makefiles with CMake
+cmake ..
+
+# 3. Compile the project
+make
+
+# 4. Run the program
+./to_do
