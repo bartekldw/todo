@@ -43,5 +43,11 @@ make
 ```bash
 ./to_Do
 ```
-###Help me grow my passion:
+
+### Help me grow my passion:
+<p align="center">
+  <a href="https://buymeacoffee.com/brtekld_prog" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Pomóż%20mi%20rozwijać%20pasje-yellow?style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+</p>
 
