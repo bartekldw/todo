@@ -23,14 +23,18 @@
 
 To compile and run the project, follow these steps in your terminal:
 
+
+1. Create a build directory
 ```bash
-# 1. Create a build directory
 mkdir build
 cd build
+```
 
-# 2. Generate Makefiles with CMake
+
+2. Generate Makefiles with CMake
+```bash
 cmake ..
-
+```
 # 3. Compile the project
 make
 
