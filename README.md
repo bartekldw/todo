@@ -1,6 +1,6 @@
 # TODO - Task manager
 ### 📝 Simple and quick task manager that lets you track your tasks in an easy way!
-### Here are some photos of the program:
+### Here are some photos of the project:
 
 <div align="center">
   <p>Main menu:</p>
@@ -19,4 +19,4 @@
 
 ---
 
-## ✅ Built and tested on Ubuntu 24.04.2 LTS
+### Built and tested on Ubuntu 24.04.2 LTS
