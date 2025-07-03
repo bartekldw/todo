@@ -15,4 +15,5 @@
   <p>Show tasks::</p>
   <img src="photos/show_tasks.png" alt="show tasks" width="400px">
 </div>
-## Built and tested on Ubuntu 24.04.2 LTS 
+
+Built and tested on Ubuntu 24.04.2 LTS 
