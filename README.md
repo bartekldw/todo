@@ -35,8 +35,11 @@ cd build
 ```bash
 cmake ..
 ```
-# 3. Compile the project
+3. Compile the project
+```bash
 make
-
-# 4. Run the program
-./to_do
+```
+4. Run the program
+```bash
+./to_Do
+```
