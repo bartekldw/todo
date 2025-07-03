@@ -14,3 +14,9 @@
   <p>Show tasks::</p>
   <img src="photos/show_tasks.png" alt="show tasks" width="400px">
 </div>
+
+
+<div align="center">
+  <img src="photos/main_menu.png" alt="main menu" width="300px" style="margin-right: 10px;">
+  <img src="photos/manage_task.png" alt="manage tasks" width="300px">
+</div>
