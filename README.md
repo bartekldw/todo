@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20cofee-yellow?style=for-the-badge" alt="Buy Me A Coffee">
   </a>
 </p>
+---
 ### Here are some photos of the project:
 
 <div align="center">
